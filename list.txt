@@ -1,3 +1,40 @@
+0.0.0.0  ads-api.tiktok.com
 0.0.0.0  ads-config-engine-noneu.truecaller.com
+0.0.0.0  ads-partner-noneu.truecaller.com
+0.0.0.0  ads.facebook.com
+0.0.0.0  adstore.response.eastus.trafficmanager.net
+0.0.0.0  adtech-yahooinc-com.b2bmarketing-adtech-prod.aws.oath.cloud
+0.0.0.0  adtech.yahooinc.com
+0.0.0.0  advertising-api-eu.amazon.com
+0.0.0.0  advertising.a2z.com
+0.0.0.0  advertising.amazon.dev
+0.0.0.0  advertising.apple.com
+0.0.0.0  advertising.b2bmarketing-adtech-prod.aws.oath.cloud
+0.0.0.0  advertising.twitter.com
+0.0.0.0  affiliationjs.s3.amazonaws.com
+0.0.0.0  amazon-adsystem.amazon.com
+0.0.0.0  amazon-adsystem.com
+0.0.0.0  amazonaax.com
+0.0.0.0  amazonclix.com
+0.0.0.0  analytics-api.samsunghealthcn.com
+0.0.0.0  analytics-sg.tiktok.com
+0.0.0.0  analytics.s3.amazonaws.com
+0.0.0.0  analyticsengine.s3.amazonaws.com
+0.0.0.0  api-adservices.apple.com
+0.0.0.0  books-analytics-events.apple.com
+0.0.0.0  business-api.tiktok.com
+0.0.0.0  copilot-telemetry-service.githubusercontent.com
+0.0.0.0  device-metrics-us.amazon.com
+0.0.0.0  log.fc.yahoo.com
+0.0.0.0  partnerads-test.ysm.yahoo.net
+0.0.0.0  searchads.apple.com
+0.0.0.0  udcm.yahoo.com
+0.0.0.0  www.adtech.yahooinc.com
+0.0.0.0  www.advertising.yahooinc.com
 ||afafb.com^
+||afs.googlesyndication.com^
+||aviary.amazon.com^
+||html-load.com^
 ||assoc-amazon*
+! Actual targets: mobile.events.data.microsoft.com	self.events.data.microsoft.com	settings-win.data.microsoft.com	watson.events.data.microsoft.com	
+||data.microsoft.com^
