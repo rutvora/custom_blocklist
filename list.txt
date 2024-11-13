@@ -1,0 +1,3 @@
+0.0.0.0  ads-config-engine-noneu.truecaller.com
+||afafb.com^
+||assoc-amazon*
