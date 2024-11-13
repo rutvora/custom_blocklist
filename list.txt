@@ -36,7 +36,5 @@
 ||afs.googlesyndication.com^
 ||aviary.amazon.com^
 ||html-load.com^
-||*assoc-amazon*
 ! Actual targets: mobile.events.data.microsoft.com	self.events.data.microsoft.com	settings-win.data.microsoft.com	watson.events.data.microsoft.com	
 ||data.microsoft.com^
-||mads*amazon*
