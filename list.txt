@@ -31,6 +31,7 @@
 0.0.0.0  udcm.yahoo.com
 0.0.0.0  www.adtech.yahooinc.com
 0.0.0.0  www.advertising.yahooinc.com
+0.0.0.0  conversions.dostuffreporting.com
 ||afafb.com^
 ||afs.googlesyndication.com^
 ||aviary.amazon.com^
