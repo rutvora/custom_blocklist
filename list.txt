@@ -38,4 +38,4 @@
 ||html-load.com^
 ! Actual targets: mobile.events.data.microsoft.com	self.events.data.microsoft.com	settings-win.data.microsoft.com	watson.events.data.microsoft.com	
 ||data.microsoft.com^
-||marketing.aws.dev
+||marketing.aws.dev^
