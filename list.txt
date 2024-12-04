@@ -32,6 +32,7 @@
 0.0.0.0  www.adtech.yahooinc.com
 0.0.0.0  www.advertising.yahooinc.com
 0.0.0.0  conversions.dostuffreporting.com
+0.0.0.0  activity.windows.com
 ||afafb.com^
 ||afs.googlesyndication.com^
 ||aviary.amazon.com^
